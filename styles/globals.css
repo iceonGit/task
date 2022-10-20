@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 body {
-  background: #f2f2f2;
-  color: #333;
-  font-family: "Nunito";
+  background: #24283b;
+  color: #9ece6a;
+  font-family: JetBrains Mono;
 }
 a {
-  color: #333;
+  color: #bb9af7;
   text-decoration: none;
 }
 .content {
@@ -39,7 +39,7 @@ footer {
   text-align: center;
 }
 .not-found a {
-  color: lavender;
+  color: #4979ff;
 }
 .not-found a:hover {
   text-decoration: underline;

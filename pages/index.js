@@ -25,7 +25,7 @@ export default function Home() {
           quae nesciunt tenetur esse alias minima, unde libero asperiores.
         </p>
         <Link href="/ninjas">
-          <a className={styles.btn}>See Ninja Listing</a>
+          <a className={styles.btn}> Random People</a>
         </Link>
       </div>
     </>
