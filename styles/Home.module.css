@@ -11,8 +11,26 @@
   width: 150px;
   padding: 8px 0;
   margin: 20px auto;
-  background: #4979ff;
+  background: #1d1f21;
   border-radius: 4px;
   color: white;
   text-align: center;
+}
+img.delivery1 {
+  display: flex;
+  margin-left: 0%;
+  border-radius: 12px;
+}
+img.delivery2 {
+  display: flex;
+  border-radius: 12px;
+  margin-left: 60%;
+  margin-bottom: 40px;
+}
+img.delivery3 {
+  width: 60%;
+  display: flex;
+  border-radius: 15px;
+  margin: auto;
+  margin-bottom: 40px;
 }
