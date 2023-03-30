@@ -58,12 +58,12 @@ export default function Home() {
         <p className={styles.text}>
           When you want to do something that takes a long time to finish, like
           waiting for a toy to be delivered or waiting for a cake to bake, you
-          usually have to wait patiently for it to finish. It's the same with
+          usually have to wait patiently for it to finish. It is the same with
           programming: sometimes you need to do something that takes a long
           time, like waiting for data to be fetched from the internet. But if
           you just wait around for the data to arrive, your program will stop
-          and won't be able to do anything else until the data is fetched.
-          That's where the asynchronous functions come in.
+          and will not be able to do anything else until the data is fetched.
+          That is where the asynchronous functions come in.
         </p>
         <p className={styles.text}>
           Remember the fetch() .then() .then() and a long chain of .then()s
@@ -148,8 +148,8 @@ export default function Home() {
         </p>
         <br />
         <p className={styles.text}>
-          So that's a basic introduction to async/await in JavaScript. It allows
-          your program to keep doing other things while it's waiting for
+          So that is a basic introduction to async/await in JavaScript. It
+          allows your program to keep doing other things while it is waiting for
           something else to finish, making it more efficient and responsive.
         </p>
       </div>
